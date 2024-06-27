@@ -9,6 +9,6 @@ AutoVidGen is an innovative tool that leverages cutting-edge AI technologies to 
 
 ## 参考资料
 1. ShortGPT: [code](https://github.com/RayVentura/ShortGPT)
-2. LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing: [paper](https://arxiv.org/pdf/2402.10294)[project](https://www.dgp.toronto.edu/~bryanw/lave/)
+2. LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing: [[paper](https://arxiv.org/pdf/2402.10294)][[project](https://www.dgp.toronto.edu/~bryanw/lave/)]
 3. reader: web to json: [website](https://jina.ai/reader/)
 4. firecrawl: web to json: [website](https://www.firecrawl.dev/)
